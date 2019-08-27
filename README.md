@@ -5,4 +5,4 @@
 # Output of the script implemented on the Dataset
 
 ![image](https://drive.google.com/file/d/1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr/view?usp=sharing)
-<a href = "https://drive.google.com/file/d/1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr/view?usp=sharing"></a>
+<img src = "https://drive.google.com/file/d/1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr/view?usp=sharing"></img>
