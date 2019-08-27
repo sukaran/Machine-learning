@@ -4,5 +4,7 @@
 
 # Output of the script implemented on the Dataset
 
-![image](https://drive.google.com/file/d/1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr/view?usp=sharing)
-<img src = "https://drive.google.com/file/d/1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr/view?usp=sharing"></img>
+
+![image](https://drive.google.com/uc?export=view&id=1a8waP4bWlhZmnqQt4eUy1uBXJTUrKwzr)
+
+
